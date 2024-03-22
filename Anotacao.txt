@@ -13,3 +13,13 @@ ng version
 Criar projeto
 
 ng new projectangular
+
+Instalando Extensoes
+
+Angular Schematics
+
+Angular Lancguage
+
+Angular Snippets
+
+Angular Essentials
