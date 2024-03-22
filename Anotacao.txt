@@ -1,3 +1,15 @@
 
 
 Inicio Preparação do Projeto em Angular 16 e .NET
+
+Comandos
+
+Instalar Angular
+npm install -g @angular/cli
+
+Ver a versão do Angular
+ng version
+
+Criar projeto
+
+ng new projectangular
