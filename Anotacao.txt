@@ -34,4 +34,8 @@ ng generate service services/funcionario
 
 ng g c pages/cadastro
 
+ng g c pages/home
+
+ng g c componentes/funcionario-form
+
 Explicacao g = Generate | c = component
