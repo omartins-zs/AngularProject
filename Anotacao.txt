@@ -7,12 +7,18 @@ Comandos
 Instalar Angular
 npm install -g @angular/cli
 
+npm install -g @angular/cli@16.1.8
+
 Ver a versão do Angular
 ng version
 
 Criar projeto
 
 ng new projectangular
+
+Acessar o projeto
+
+cd projectangular
 
 Instalando Extensoes
 
@@ -23,3 +29,9 @@ Angular Lancguage
 Angular Snippets
 
 Angular Essentials
+
+ng generate service services/funcionario
+
+ng g c pages/cadastro
+
+Explicacao g = Generate | c = component
